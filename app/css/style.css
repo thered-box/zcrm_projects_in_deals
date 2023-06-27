@@ -1,0 +1,19 @@
+#projectContainer{
+    background-color: tomato;
+}
+
+.task{
+    border: 5px solid black;
+    /* border-width: 0 5px;
+    border-color: black; */
+    /* background-color: slategrey; */
+}
+
+.task h4{
+    color: aqua;
+}
+
+.taskName {
+    cursor: pointer;
+}
+
